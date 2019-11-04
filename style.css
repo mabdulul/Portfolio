@@ -45,7 +45,7 @@ body {
 .Logo {
   position: relative;
   display: inline;
-  color: #dbbb29;
+  color: #FFE124;
   text-transform: uppercase;
   font-family: 'Pacifico', cursive;
   font-weight: 700;
@@ -230,15 +230,9 @@ body {
     font-size: 1.6rem;
     text-align: left;
     margin-bottom: 2rem; }
-    .whoweare_box_two{
-      background-color: #794a9eb5;
-    }
-    .whoare-image-block{
-      background-color: #794a9eb5;
-
-    }
+    
+    
   .whoweare_box {
-    background-color: #794a9eb5;
     border: 6px solid; 
     z-index: 100;
     max-width: 100%;
@@ -336,97 +330,7 @@ body {
     text-decoration: line-through; }
 
 /****************************************************************** Prices ***********************************************************/
-.prices {
-  color: #0B0D0C;
-  background: url("../../Images/office.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  position: relative; }
-  .prices .price-bring-box {
-    position: relative;
-    top: 5rem; }
-  .prices_tap {
-    color: #F6F6F6;
-    text-transform: uppercase;
-    margin-top: 3rem;
-    font-weight: 100;
-    float: left; }
-  .prices_hrsmall {
-    border-bottom: 1rem;
-    border-color: #F6F6F6;
-    display: inline-block;
-    width: 7rem;
-    vertical-align: middle;
-    margin-left: 25px;
-    text-transform: uppercase;
-    color: #F6F6F6; }
-  .prices_white {
-    color: #0B0D0C;
-    background-color: #fff;
-    text-align: center;
-    text-transform: uppercase;
-    width: 85%;
-    position: relative;
-    top: 5rem;
-    padding-right: 3rem;
-    padding-left: 3rem;
-    padding-top: 3rem;
-    padding-bottom: 4rem; }
-  .prices h3 {
-    font-size: 2rem;
-    font-weight: 400;
-    margin-top: 3rem;
-    margin-bottom: 1rem; }
-  .prices_from {
-    font-size: 1rem; }
-  .prices_price {
-    font-size: 3rem;
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem; }
-  .prices a {
-    text-decoration: none;
-    border-width: .1rem;
-    border-style: solid;
-    padding: 1rem;
-    text-transform: uppercase;
-    color: #0B0D0C;
-    max-width: 100%;
-    display: inline-block;
-    width: 15rem; }
-  .prices_touch {
-    text-align: left;
-    text-transform: none;
-    font-size: 1.2rem;
-    position: relative;
-    top: -40px;
-    margin-bottom: 1rem;
-    color: #0B0D0C;
-    background-color: #fff; }
 
-.btn_order-touch {
-  font-size: 1.5rem;
-  position: relative;
-  text-align: center;
-  top: -40px;
-  margin-bottom: 1rem; }
-
-.prices_fix {
-  padding-bottom: 0rem; }
-
-.price_hr {
-  position: relative;
-  top: -2px;
-  margin-bottom: 0px; }
-
-.test {
-  position: relative;
-  top: 10px; }
-
-.test2 {
-  position: relative;
-  top: 5px; }
 
 /*****************************Our work*********************************************************************************/
 .ourWork {
