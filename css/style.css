@@ -45,11 +45,7 @@ body {
 .Logo {
   position: relative;
   display: inline;
-<<<<<<< HEAD
   color: #FFE124;
-=======
-  color: #dbbb29;
->>>>>>> a51e902620b9335f4e1dce08cce993c802699a05
   text-transform: uppercase;
   font-family: 'Pacifico', cursive;
   font-weight: 700;
@@ -379,11 +375,7 @@ body {
   }
   footer .footer-icons a {
    /*  margin-top: 30px; */
-<<<<<<< HEAD
     color: #FFE124;
-=======
-    color: #dbbb29;
->>>>>>> a51e902620b9335f4e1dce08cce993c802699a05
     text-decoration: none;
   }
 
